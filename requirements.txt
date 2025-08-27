@@ -1,4 +1,12 @@
 python-dotenv
 langchain
-# langchain-openai
+langchain-community
+langchain-openai
 ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-text-splitters
+chromadb
+langchain_chroma
