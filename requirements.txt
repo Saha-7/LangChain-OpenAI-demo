@@ -2,3 +2,5 @@ python-dotenv
 langchain
 langchain_community
 ipykernel
+pypdf
+bs4
